@@ -15,9 +15,9 @@ from flask import jsonify
 tiktok_api = TikTokApi.get_instance()
 
 #Authentication tokens
-audio_recognition_api_token = '9dc2773447fedb9ca9d1af324815b1ff'
-SPOTIPY_CLIENT_ID = '1e5ec11afac54ed982fac44c832c0c4b'
-SPOTIPY_CLIENT_SECRET = '393489672cd441ac8ef118d9416456ec'
+audio_recognition_api_token = '[REDACTED]'
+SPOTIPY_CLIENT_ID = '[REDACTED]'
+SPOTIPY_CLIENT_SECRET = '[REDACTED]'
 SPOTIPY_REDIRECT_URI = 'http://127.0.0.1:5000/'
 
 
